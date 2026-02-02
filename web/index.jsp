@@ -3,11 +3,10 @@
     Created on : Jan 1, 2026, 9:47:27 PM
     Author     : avish
 --%>
-
+/usr/local/tomcat/webapps/ROOT/index.jsp
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-/usr/local/tomcat/webapps/ROOT/index.jsp
 <head>
     <meta charset="UTF-8">
     <title> Login Page</title>
