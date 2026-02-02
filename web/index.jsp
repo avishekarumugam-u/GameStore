@@ -68,6 +68,8 @@
     <div class="login-container">
         <h2>Sign In</h2>
         <form action="process.jsp" method="post">
+<p>/usr/local/tomcat/webapps/ROOT/index.jsp</p>
+
             <input type="text" name="username" placeholder="Username" required/>
             <input type="password" name="password" placeholder="Password" required/>
             <input type="submit" value="Login"/>
