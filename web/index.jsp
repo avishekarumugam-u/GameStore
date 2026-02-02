@@ -1,4 +1,3 @@
-/usr/local/tomcat/webapps/ROOT/index.jsp
 <%-- 
     Document   : index
     Created on : Jan 1, 2026, 9:47:27 PM
